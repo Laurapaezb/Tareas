@@ -1,0 +1,36 @@
+h1 {
+	color: #566270;
+	font-size: 30px;
+	font-family: tahoma, helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+h2 {
+	color: #566270;
+	font-size: 20px;
+	font-family: tahoma, helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	color: #383A3F;
+	font-size: 16px;
+	font-family: georgia, arial, sans-serif;
+	line-height: 1.8em;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	border: 2px #A593E0 dotted;
+	padding: 50px;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
+image{
+	width: 45px
+	height: 90px;
+}
